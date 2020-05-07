@@ -22,13 +22,16 @@ Full stack web application build with MERN stack<br/>
 ## Quick start
 
 - Install dependencies
+
   `$npm run install:client`<br/>
   `$npm run install:server`<br/>
 
 - Runnning the development server of the frontend
+
   `npm run start:client`<br/>
 
 - Runnning the backend
+
   `npm run start:server`
 
 
@@ -39,6 +42,6 @@ The project is configured to deploy the production version to heroku by running 
 - Building the frontend
   `npm run build`
 
-- Configure environment variables MONGODB_URI, JWT_KEY in heroku
+- Configure environment variables `MONGODB_URI` and `JWT_KEY` in heroku 
 
-- `heroku-postbuild` command automatically runs when deployed to heroku.
+- `heroku-postbuild` command will automatically run when deployed to heroku.
