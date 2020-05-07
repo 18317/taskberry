@@ -23,8 +23,8 @@ Full stack web application build with MERN stack<br/>
 
 - Install dependencies
 
-  `$npm run install:client`<br/>
-  `$npm run install:server`<br/>
+  `npm run install:client`<br/>
+  `npm run install:server`<br/>
 
 - Runnning the development server of the frontend
 
