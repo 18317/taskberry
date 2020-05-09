@@ -6,7 +6,7 @@ Full stack web application build with MERN stack<br/>
 
 * [Technology stack](#technology-stack)
 * [Quick Start](#quick-start)
-* [Procution Build](#browser-support)
+* [Production Build](#production-build)
 
 ## Technology Stack
 
